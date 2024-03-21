@@ -1,0 +1,321 @@
+"id","team","wins"
+1,"2023 Houston",2
+2,"2023 Auburn",1
+3,"2023 Miami (FL)",4
+4,"2023 Indiana",1
+5,"2023 Pitt",1
+6,"2023 Xavier",2
+7,"2023 Penn St.",1
+8,"2023 Texas",3
+9,"2023 Kansas",1
+10,"2023 Arkansas",2
+11,"2023 St. Mary’s",1
+12,"2023 UConn",6
+13,"2023 TCU",1
+14,"2023 Gonzaga",3
+15,"2023 Northwestern",1
+16,"2023 UCLA",2
+17,"2023 FDU",1
+18,"2023 FAU",4
+19,"2023 Duke",1
+20,"2023 Tennessee",2
+21,"2023 Kentucky",1
+22,"2023 Kansas St.",3
+23,"2023 Michigan St.",2
+24,"2023 Marquette",1
+25,"2023 Alabama",2
+26,"2023 Maryland",1
+27,"2023 San Diego St.",5
+28,"2023 Furman",1
+29,"2023 Creighton",3
+30,"2023 Baylor",1
+31,"2023 Missouri",1
+32,"2023 Princeton",2
+33,"2023 North Kentucky",0
+34,"2023 Iowa",0
+35,"2023 Drake",0
+36,"2023 Kent St.",0
+37,"2023 Iowa St.",0
+38,"2023 Kennesaw St.",0
+39,"2023 Texas A&M",0
+40,"2023 Colgate",0
+41,"2023 Howard",0
+42,"2023 Illinois",0
+43,"2023 VCU",0
+44,"2023 Iona",0
+45,"2023 Arizona St.",0
+46,"2023 Grand Canyon",0
+47,"2023 Boise St.",0
+48,"2023 UNC Asheville",0
+49,"2023 Purdue",0
+50,"2023 Memphis",0
+51,"2023 Oral Roberts",0
+52,"2023 Louisiana",0
+53,"2023 Providence",0
+54,"2023 Montana St.",0
+55,"2023 USC",0
+56,"2023 Vermont",0
+57,"2023 Texas A&M-CC",0
+58,"2023 West Virginia",0
+59,"2023 Col of Charleston",0
+60,"2023 Virginia",0
+61,"2023 NC State",0
+62,"2023 UCSB",0
+63,"2023 Utah St.",0
+64,"2023 Arizona",0
+65,"2022 Kansas",6
+66,"2022 Creighton",1
+67,"2022 Richmond",1
+68,"2022 Providence",2
+69,"2022 Iowa St.",2
+70,"2022 Wisconsin",1
+71,"2022 Miami (FL)",3
+72,"2022 Auburn",1
+73,"2022 Gonzaga",2
+74,"2022 Memphis",1
+75,"2022 New Mexico St.",1
+76,"2022 Arkansas",3
+77,"2022 Notre Dame",1
+78,"2022 Texas Tech",2
+79,"2022 Michigan St.",1
+80,"2022 Duke",4
+81,"2022 Baylor",1
+82,"2022 North Carolina",5
+83,"2022 Saint Mary’s",1
+84,"2022 UCLA",2
+85,"2022 Texas",1
+86,"2022 Purdue",2
+87,"2022 Murray St.",1
+88,"2022 St. Peter’s",3
+89,"2022 Arizona",2
+90,"2022 TCU",1
+91,"2022 Houston",3
+92,"2022 Illinois",1
+93,"2022 Michigan",2
+94,"2022 Tennessee",1
+95,"2022 Ohio St.",1
+96,"2022 Villanova",4
+97,"2022 Texas Southern",0
+98,"2022 San Diego St.",0
+99,"2022 Iowa",0
+100,"2022 S. Dakota St.",0
+101,"2022 LSU",0
+102,"2022 Colgate",0
+103,"2022 USC",0
+104,"2022 Jacksonville St.",0
+105,"2022 Georgia St.",0
+106,"2022 Boise St.",0
+107,"2022 UConn",0
+108,"2022 Vermont",0
+109,"2022 Alabama",0
+110,"2022 Montana St.",0
+111,"2022 Davidson",0
+112,"2022 Cal St. Fullerton",0
+113,"2022 Norfolk St.",0
+114,"2022 Marquette",0
+115,"2022 Indiana",0
+116,"2022 Akron",0
+117,"2022 Virginia Tech",0
+118,"2022 Yale",0
+119,"2022 San Francisco",0
+120,"2022 Kentucky",0
+121,"2022 Wright St.",0
+122,"2022 Seton Hall",0
+123,"2022 UAB",0
+124,"2022 Chattanooga",0
+125,"2022 Colorado St.",0
+126,"2022 Longwood",0
+127,"2022 Loyola Chicago",0
+128,"2022 Delaware",0
+129,"2021 Illinois",1
+130,"2021 Loyola Chicago",2
+131,"2021 Oregon St.",3
+132,"2021 Oklahoma St.",1
+133,"2021 Syracuse",2
+134,"2021 West Virginia",1
+135,"2021 Rutgers",1
+136,"2021 Houston",4
+137,"2021 Gonzaga",5
+138,"2021 Oklahoma",1
+139,"2021 Creighton",2
+140,"2021 Ohio",1
+141,"2021 USC",3
+142,"2021 Kansas",1
+143,"2021 Iowa",1
+144,"2021 Michigan",3
+145,"2021 LSU",1
+146,"2021 Colorado",2
+147,"2021 Florida St.",1
+148,"2021 UCLA",4
+149,"2021 Abilene Christian",1
+150,"2021 Maryland",1
+151,"2021 Alabama",2
+152,"2021 Baylor",6
+153,"2021 Wisconsin",1
+154,"2021 Villanova",2
+155,"2021 North Texas",1
+156,"2021 Texas Tech",1
+157,"2021 Arkansas",3
+158,"2021 Florida",1
+159,"2021 Oral Roberts",2
+160,"2021 Oregon",1
+161,"2021 Drexel",0
+162,"2021 Georgia Tech",0
+163,"2021 Tennessee",0
+164,"2021 Liberty",0
+165,"2021 San Diego St.",0
+166,"2021 Morehead St.",0
+167,"2021 Clemson",0
+168,"2021 Cleveland St.",0
+169,"2021 Norfolk St.",0
+170,"2021 Missouri",0
+171,"2021 UCSB",0
+172,"2021 Virginia",0
+173,"2021 Drake",0
+174,"2021 Eastern Wash.",0
+175,"2021 VCU",0
+176,"2021 Grand Canyon",0
+177,"2021 Texas Southern",0
+178,"2021 St. Bonaventure",0
+179,"2021 Georgetown",0
+180,"2021 UNC Greensboro",0
+181,"2021 BYU",0
+182,"2021 Texas",0
+183,"2021 UConn",0
+184,"2021 Iona",0
+185,"2021 Hartford",0
+186,"2021 North Carolina",0
+187,"2021 Winthrop",0
+188,"2021 Purdue",0
+189,"2021 Utah St.",0
+190,"2021 Colgate",0
+191,"2021 Virginia Tech",0
+192,"2021 Ohio State",0
+193,"2019 Duke",3
+194,"2019 Michigan State",4
+195,"2019 LSU",2
+196,"2019 Virginia Tech",2
+197,"2019 Liberty",1
+198,"2019 Maryland",1
+199,"2019 Minnesota",1
+200,"2019 UCF",1
+201,"2019 Gonzaga",3
+202,"2019 Michigan",2
+203,"2019 Texas Tech",5
+204,"2019 Florida State",2
+205,"2019 Murray State",1
+206,"2019 Buffalo",1
+207,"2019 Florida",1
+208,"2019 Baylor",1
+209,"2019 Virginia",6
+210,"2019 Tennessee",2
+211,"2019 Purdue",3
+212,"2019 UC Irvine",1
+213,"2019 Oregon",2
+214,"2019 Villanova",1
+215,"2019 Iowa",1
+216,"2019 Oklahoma",1
+217,"2019 North Carolina",2
+218,"2019 Kentucky",3
+219,"2019 Houston",2
+220,"2019 Kansas",1
+221,"2019 Auburn",4
+222,"2019 Ohio State",1
+223,"2019 Wofford",1
+224,"2019 Washington",1
+225,"2019 North Dakota State",0
+226,"2019 Bradley",0
+227,"2019 Yale",0
+228,"2019 Saint Louis",0
+229,"2019 Mississippi State",0
+230,"2019 Belmont",0
+231,"2019 Louisville",0
+232,"2019 VCU",0
+233,"2019 Fairleigh Dickinson",0
+234,"2019 Montana",0
+235,"2019 Northern Kentucky",0
+236,"2019 Vermont",0
+237,"2019 Marquette",0
+238,"2019 Arizona State",0
+239,"2019 Nevada",0
+240,"2019 Syracuse",0
+241,"2019 Gardner-Webb",0
+242,"2019 Colgate",0
+243,"2019 Old Dominion",0
+244,"2019 Kansas State",0
+245,"2019 Wisconsin",0
+246,"2019 Saint Mary's",0
+247,"2019 Temple",0
+248,"2019 Ole Miss",0
+249,"2019 Iona",0
+250,"2019 Abilene Christian",0
+251,"2019 Georgia State",0
+252,"2019 Northeastern",0
+253,"2019 New Mexico State",0
+254,"2019 Iowa State",0
+255,"2019 Seton Hall",0
+256,"2019 Utah State",0
+257,"2018 Villanova",6
+258,"2018 Purdue",2
+259,"2018 Texas Tech",3
+260,"2018 Marshall",1
+261,"2018 West Virginia",2
+262,"2018 Florida",1
+263,"2018 Butler",1
+264,"2018 Alabama",1
+265,"2018 Xavier",1
+266,"2018 North Carolina",1
+267,"2018 Michigan",5
+268,"2018 Gonzaga",2
+269,"2018 Ohio State",1
+270,"2018 Houston",1
+271,"2018 Texas A&M",2
+272,"2018 Florida State",3
+273,"2018 UMBC",1
+274,"2018 Cincinnati",1
+275,"2018 Tennessee",1
+276,"2018 Buffalo",1
+277,"2018 Kentucky",2
+278,"2018 Loyola Chicago",4
+279,"2018 Nevada",2
+280,"2018 Kansas State",3
+281,"2018 Kansas",4
+282,"2018 Duke",3
+283,"2018 Michigan State",1
+284,"2018 Auburn",1
+285,"2018 Clemson",2
+286,"2018 Syracuse",2
+287,"2018 Rhode Island",1
+288,"2018 Seton Hall",1
+289,"2018 Radford",0
+290,"2018 Cal State Fullerton",0
+291,"2018 Stephen F. Austin",0
+292,"2018 Wichita State",0
+293,"2018 Murray State",0
+294,"2018 St. Bonaventure",0
+295,"2018 Arkansas",0
+296,"2018 Virginia Tech",0
+297,"2018 Texas Southern",0
+298,"2018 Lipscomb",0
+299,"2018 Montana",0
+300,"2018 UNC Greensboro",0
+301,"2018 South Dakota State",0
+302,"2018 San Diego State",0
+303,"2018 Providence",0
+304,"2018 Missouri",0
+305,"2018 Virginia",0
+306,"2018 Georgia State",0
+307,"2018 Wright State",0
+308,"2018 Arizona",0
+309,"2018 Davidson",0
+310,"2018 Miami (Fla.)",0
+311,"2018 Texas",0
+312,"2018 Creighton",0
+313,"2018 Pennsylvania",0
+314,"2018 Iona",0
+315,"2018 Bucknell",0
+316,"2018 College of Charleston",0
+317,"2018 New Mexico State",0
+318,"2018 TCU",0
+319,"2018 Oklahoma",0
+320,"2018 NC State",0

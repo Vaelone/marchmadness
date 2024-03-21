@@ -1,0 +1,385 @@
+"id","team","wins"
+1,"2007 North Carolina",3
+2,"2007 Michigan State",1
+3,"2007 USC",2
+4,"2007 Texas",1
+5,"2007 Vanderbilt",2
+6,"2007 Washington State",1
+7,"2007 Boston College",1
+8,"2007 Georgetown",4
+9,"2007 Florida",6
+10,"2007 Purdue",1
+11,"2007 Butler",2
+12,"2007 Maryland",1
+13,"2007 Winthrop",1
+14,"2007 Oregon",3
+15,"2007 UNLV",2
+16,"2007 Wisconsin",1
+17,"2007 Ohio State",5
+18,"2007 Xavier",1
+19,"2007 Tennessee",2
+20,"2007 Virginia",1
+21,"2007 Louisville",1
+22,"2007 Texas A&M",2
+23,"2007 Nevada",1
+24,"2007 Memphis",3
+25,"2007 Kansas",3
+26,"2007 Kentucky",1
+27,"2007 Virginia Tech",1
+28,"2007 Southern Illinois",2
+29,"2007 VCU",1
+30,"2007 Pittsburgh",2
+31,"2007 Indiana",1
+32,"2007 UCLA",4
+33,"2007 Eastern Kentucky",0
+34,"2007 Marquette",0
+35,"2007 Arkansas",0
+36,"2007 New Mexico State",0
+37,"2007 George Washington",0
+38,"2007 Oral Roberts",0
+39,"2007 Texas Tech",0
+40,"2007 Belmont",0
+41,"2007 Jackson State",0
+42,"2007 Arizona",0
+43,"2007 Old Dominion",0
+44,"2007 Davidson",0
+45,"2007 Notre Dame",0
+46,"2007 Miami (Ohio)",0
+47,"2007 Georgia Tech",0
+48,"2007 Texas A&M-Corpus Christi",0
+49,"2007 Central Connecticut State",0
+50,"2007 BYU",0
+51,"2007 Long Beach State",0
+52,"2007 Albany",0
+53,"2007 Stanford",0
+54,"2007 Penn",0
+55,"2007 Creighton",0
+56,"2007 North Texas",0
+57,"2007 Niagara",0
+58,"2007 Villanova",0
+59,"2007 Illinois",0
+60,"2007 Holy Cross",0
+61,"2007 Duke",0
+62,"2007 Wright State",0
+63,"2007 Gonzaga",0
+64,"2007 Weber State",0
+65,"2008 North Carolina",4
+66,"2008 Arkansas",1
+67,"2008 Notre Dame",1
+68,"2008 Washington State",2
+69,"2008 Oklahoma",1
+70,"2008 Louisville",3
+71,"2008 Butler",1
+72,"2008 Tennessee",2
+73,"2008 Kansas",6
+74,"2008 UNLV",1
+75,"2008 Villanova",2
+76,"2008 Siena",1
+77,"2008 Kansas State",1
+78,"2008 Wisconsin",2
+79,"2008 Davidson",3
+80,"2008 Georgetown",1
+81,"2008 Memphis",5
+82,"2008 Mississippi State",1
+83,"2008 Michigan State",2
+84,"2008 Pittsburgh",1
+85,"2008 Marquette",1
+86,"2008 Stanford",2
+87,"2008 Miami (FL)",1
+88,"2008 Texas",3
+89,"2008 UCLA",4
+90,"2008 Texas A&M",1
+91,"2008 Western Kentucky",2
+92,"2008 San Diego",1
+93,"2008 Purdue",1
+94,"2008 Xavier",3
+95,"2008 West Virginia",2
+96,"2008 Duke",1
+97,"2008 Mount St. Mary's",0
+98,"2008 Indiana",0
+99,"2008 George Mason",0
+100,"2008 Winthrop",0
+101,"2008 St. Joseph's",0
+102,"2008 Boise State",0
+103,"2008 South Alabama",0
+104,"2008 American",0
+105,"2008 Portland State",0
+106,"2008 Kent State",0
+107,"2008 Clemson",0
+108,"2008 Vanderbilt",0
+109,"2008 USC",0
+110,"2008 Cal State Fullerton",0
+111,"2008 Gonzaga",0
+112,"2008 UMBC",0
+113,"2008 Texas-Arlington",0
+114,"2008 Oregon",0
+115,"2008 Temple",0
+116,"2008 Oral Roberts",0
+117,"2008 Kentucky",0
+118,"2008 Cornell",0
+119,"2008 Saint Mary's",0
+120,"2008 Austin Peay",0
+121,"2008 Mississippi Valley State",0
+122,"2008 BYU",0
+123,"2008 Drake",0
+124,"2008 UConn",0
+125,"2008 Baylor",0
+126,"2008 Georgia",0
+127,"2008 Arizona",0
+128,"2008 Belmont",0
+129,"2009 Pittsburgh",3
+130,"2009 Oklahoma State",1
+131,"2009 Wisconsin",1
+132,"2009 Xavier",2
+133,"2009 UCLA",1
+134,"2009 Villanova",4
+135,"2009 Texas",1
+136,"2009 Duke",2
+137,"2009 Louisville",3
+138,"2009 Siena",1
+139,"2009 Arizona",2
+140,"2009 Cleveland State",1
+141,"2009 Dayton",1
+142,"2009 Kansas",2
+143,"2009 USC",1
+144,"2009 Michigan State",5
+145,"2009 North Carolina",6
+146,"2009 LSU",1
+147,"2009 Western Kentucky",1
+148,"2009 Gonzaga",2
+149,"2009 Arizona State",1
+150,"2009 Syracuse",2
+151,"2009 Michigan",1
+152,"2009 Oklahoma",3
+153,"2009 UConn",4
+154,"2009 Texas A&M",1
+155,"2009 Purdue",2
+156,"2009 Washington",1
+157,"2009 Marquette",1
+158,"2009 Missouri",3
+159,"2009 Maryland",1
+160,"2009 Memphis",2
+161,"2009 East Tennessee State",0
+162,"2009 Tennessee",0
+163,"2009 Florida State",0
+164,"2009 Portland State",0
+165,"2009 VCU",0
+166,"2009 American",0
+167,"2009 Minnesota",0
+168,"2009 Binghamton",0
+169,"2009 Morehead State",0
+170,"2009 Ohio State",0
+171,"2009 Utah",0
+172,"2009 Wake Forest",0
+173,"2009 West Virginia",0
+174,"2009 North Dakota State",0
+175,"2009 Boston College",0
+176,"2009 Robert Morris",0
+177,"2009 Radford",0
+178,"2009 Butler",0
+179,"2009 Illinois",0
+180,"2009 Akron",0
+181,"2009 Temple",0
+182,"2009 Stephen F. Austin",0
+183,"2009 Clemson",0
+184,"2009 Morgan State",0
+185,"2009 Chattanooga",0
+186,"2009 BYU",0
+187,"2009 Northern Iowa",0
+188,"2009 Mississippi State",0
+189,"2009 Utah State",0
+190,"2009 Cornell",0
+191,"2009 California",0
+192,"2009 Cal State Northridge",0
+193,"2010 Kentucky",3
+194,"2010 West Virginia",4
+195,"2010 New Mexico",1
+196,"2010 Wisconsin",1
+197,"2010 Cornell",2
+198,"2010 Washington",2
+199,"2010 Missouri",1
+200,"2010 Wake Forest",1
+201,"2010 Syracuse",2
+202,"2010 Kansas State",3
+203,"2010 Pittsburgh",1
+204,"2010 Murray State",1
+205,"2010 Butler",5
+206,"2010 Xavier",2
+207,"2010 BYU",1
+208,"2010 Gonzaga",1
+209,"2010 Duke",6
+210,"2010 Villanova",1
+211,"2010 Baylor",3
+212,"2010 Purdue",2
+213,"2010 Texas A&M",1
+214,"2010 Old Dominion",1
+215,"2010 Saint Mary's",2
+216,"2010 California",1
+217,"2010 Kansas",1
+218,"2010 Ohio State",2
+219,"2010 Ohio",1
+220,"2010 Maryland",1
+221,"2010 Michigan State",4
+222,"2010 Tennessee",3
+223,"2010 Georgia Tech",1
+224,"2010 Northern Iowa",2
+225,"2010 East Tennessee State",0
+226,"2010 Morgan State",0
+227,"2010 Montana",0
+228,"2010 Wofford",0
+229,"2010 Temple",0
+230,"2010 Marquette",0
+231,"2010 Clemson",0
+232,"2010 Texas (OT)",0
+233,"2010 Vermont",0
+234,"2010 North Texas",0
+235,"2010 Oakland",0
+236,"2010 Vanderbilt",0
+237,"2010 UTEP",0
+238,"2010 Minnesota",0
+239,"2010 Florida (2OT)",0
+240,"2010 Florida State",0
+241,"2010 Arkansas-Pine Bluff",0
+242,"2010 Robert Morris (OT)",0
+243,"2010 Sam Houston State",0
+244,"2010 Siena",0
+245,"2010 Utah State",0
+246,"2010 Notre Dame",0
+247,"2010 Richmond",0
+248,"2010 Louisville",0
+249,"2010 Lehigh",0
+250,"2010 UC Santa Barbara",0
+251,"2010 Georgetown",0
+252,"2010 Houston",0
+253,"2010 New Mexico State",0
+254,"2010 San Diego State",0
+255,"2010 Oklahoma State",0
+256,"2010 UNLV",0
+257,"2011 Ohio State",2
+258,"2011 North Carolina",3
+259,"2011 Syracuse",1
+260,"2011 Kentucky",4
+261,"2011 West Virginia",1
+262,"2011 Marquette",2
+263,"2011 Washington",1
+264,"2011 George Mason",1
+265,"2011 Duke",2
+266,"2011 San Diego State",2
+267,"2011 UConn",6
+268,"2011 Texas",1
+269,"2011 Arizona",3
+270,"2011 Cincinnati",1
+271,"2011 Temple",1
+272,"2011 Michigan",1
+273,"2011 Kansas",3
+274,"2011 Notre Dame",1
+275,"2011 Purdue",1
+276,"2011 Morehead State",1
+277,"2011 Richmond",2
+278,"2011 VCU",4
+279,"2011 Florida State",2
+280,"2011 Illinois",1
+281,"2011 Pitt",1
+282,"2011 Florida",3
+283,"2011 BYU",2
+284,"2011 Wisconsin",2
+285,"2011 Kansas State",1
+286,"2011 Gonzaga",1
+287,"2011 UCLA",1
+288,"2011 Butler",5
+289,"2011 UTSA",0
+290,"2011 Long Island",0
+291,"2011 Indiana State",0
+292,"2011 Princeton",0
+293,"2011 Clemson",0
+294,"2011 Xavier",0
+295,"2011 Georgia",0
+296,"2011 Villanova",0
+297,"2011 Hampton",0
+298,"2011 Northern Colorado",0
+299,"2011 Bucknell",0
+300,"2011 Oakland",0
+301,"2011 Memphis",0
+302,"2011 Missouri",0
+303,"2011 Penn State",0
+304,"2011 Tennessee",0
+305,"2011 Boston University",0
+306,"2011 Akron",0
+307,"2011 Saint Peter's",0
+308,"2011 Louisville",0
+309,"2011 Vanderbilt",0
+310,"2011 Georgetown",0
+311,"2011 Texas A&M",0
+312,"2011 UNLV",0
+313,"2011 UNC Asheville",0
+314,"2011 UC Santa Barbara",0
+315,"2011 Wofford",0
+316,"2011 Belmont",0
+317,"2011 Utah State",0
+318,"2011 St. John's",0
+319,"2011 Michigan State",0
+320,"2011 Old Dominion",0
+321,"2012 Syracuse",3
+322,"2012 Ohio State",4
+323,"2012 Florida State",1
+324,"2012 Wisconsin",2
+325,"2012 Vanderbilt",1
+326,"2012 Cincinnati",2
+327,"2012 Gonzaga",1
+328,"2012 Kansas State",1
+329,"2012 Michigan State",2
+330,"2012 Norfolk State",1
+331,"2012 Marquette",2
+332,"2012 Louisville",4
+333,"2012 New Mexico",1
+334,"2012 Murray State",1
+335,"2012 Florida",3
+336,"2012 Saint Louis",1
+337,"2012 Kentucky",6
+338,"2012 Lehigh",1
+339,"2012 Baylor",3
+340,"2012 Indiana",2
+341,"2012 VCU",1
+342,"2012 Colorado",1
+343,"2012 Xavier",2
+344,"2012 Iowa State",1
+345,"2012 North Carolina",3
+346,"2012 Kansas",5
+347,"2012 Georgetown",1
+348,"2012 Ohio",2
+349,"2012 South Florida",1
+350,"2012 NC State",2
+351,"2012 Purdue",1
+352,"2012 Creighton",1
+353,"2012 UNC Asheville",0
+354,"2012 Loyola (Md.)",0
+355,"2012 St. Bonaventure",0
+356,"2012 Montana",0
+357,"2012 Harvard",0
+358,"2012 Texas",0
+359,"2012 West Virginia",0
+360,"2012 Southern Miss",0
+361,"2012 Long Island",0
+362,"2012 Missouri",0
+363,"2012 BYU",0
+364,"2012 Davidson",0
+365,"2012 Long Beach State",0
+366,"2012 Colorado State",0
+367,"2012 Virginia",0
+368,"2012 Memphis",0
+369,"2012 Western Kentucky",0
+370,"2012 Duke",0
+371,"2012 South Dakota State",0
+372,"2012 New Mexico State",0
+373,"2012 Wichita State",0
+374,"2012 UNLV",0
+375,"2012 Notre Dame",0
+376,"2012 UConn",0
+377,"2012 Vermont",0
+378,"2012 Detroit",0
+379,"2012 Belmont",0
+380,"2012 Michigan",0
+381,"2012 Temple",0
+382,"2012 San Diego State",0
+383,"2012 Saint Mary's",0
+384,"2012 Alabama",0
